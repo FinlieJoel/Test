@@ -1,4 +1,9 @@
 #include <iostream>
+int ConnectWithGitHub()
+{
+    std::cout << "hello world" << std::endl;
+    return 0;
+}
 
 int OtherStuff()
 {
