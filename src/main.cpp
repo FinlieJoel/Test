@@ -1,10 +1,12 @@
 #include <iostream>
 
-<<<<<<< HEAD
-int feature1GamePlayCODE()
-=======
+int mainDevelopement_1()
+{
+    std::cout << "hello world" << std::endl;
+    return 0;
+}
+
 int newFeatureFromMainBranch()
->>>>>>> main
 {
     std::cout << "hello world" << std::endl;
     return 0;
@@ -17,6 +19,11 @@ int feature1UI()
 }
 
 int main()
+{
+    std::cout << "hello world" << std::endl;
+    return 0;
+}
+int stuff()
 {
     std::cout << "hello world" << std::endl;
     return 0;
